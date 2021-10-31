@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Integration of Gas Exchange With Metabolomics: High-Throughput Phenotyping Methods for Screening Biostimulant-Elicited Beneficial Responses to Short-Term Water Deficit"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2021-06-01
+venue: 'Frontiers in Plant Science'
+paperurl: 'http://mcroci.github.io/files/fpls-12-678925.pdf'
+citation: 'Antonucci, G., Croci, M., Miras-Moreno, B., Fracasso, A., & Amaducci, S. (2021). Integration of Gas Exchange With Metabolomics: High-Throughput Phenotyping Methods for Screening Biostimulant-Elicited Beneficial Responses to Short-Term Water Deficit. In Frontiers in Plant Science (Vol. 12). Frontiers Media SA. https://doi.org/10.3389/fpls.2021.678925'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://mcroci.github.io/files/fpls-12-678925.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Antonucci, G., Croci, M., Miras-Moreno, B., Fracasso, A., & Amaducci, S. (2021). Integration of Gas Exchange With Metabolomics: High-Throughput Phenotyping Methods for Screening Biostimulant-Elicited Beneficial Responses to Short-Term Water Deficit. In Frontiers in Plant Science (Vol. 12). Frontiers Media SA. https://doi.org/10.3389/fpls.2021.678925.
