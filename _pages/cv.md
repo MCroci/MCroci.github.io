@@ -13,13 +13,13 @@ Education
 ======
 * B.S. in Agricultural Science and Technology at the Università Cattolica del Sacro Cuore (Piacenza). 
 * M.S. in in Plant production and crop protection. Thesis: "Early crop classification from Sentinel-2 data"
-* Ph.D in Remote sensing for precision agriculture
+* Ph.D in Remote sensing for precision agriculture. Supervisor: Professor Stefano Amaducci
 
 Work experience
 ======
 
 * 15 January 2018 – 1 September 2018: Research Assistant
-  * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore, Piacenza 29122
+  * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
 
   
