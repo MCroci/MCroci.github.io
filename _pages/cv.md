@@ -17,24 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 15 January 2018 – 1 September 2018: Research Assistant
+  * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore, Piacenza 29122
+  * Supervisor: Professor Stefano Amaducci
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R Programming
+* QGIS
+* Python
 
 Publications
 ======
