@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Agricultural Science and Technology at the Università Cattolica del Sacro Cuore (Piacenza). 
-* M.S. in in Plant production and crop protection. Thesis: "Early crop classification from Sentinel-2 data"
+* B.S. in Agricultural Science and Technology. 
+* M.S. in Plant production and crop protection. Thesis: "Early crop classification from Sentinel-2 data"
 * Ph.D in Remote sensing for precision agriculture. Supervisor: Professor Stefano Amaducci
 
 Work experience
 ======
-
 * 15 January 2018 – 1 September 2018: Research Assistant
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
@@ -50,5 +49,5 @@ Teaching
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
  
- 
+ ======
 You can download a PDF copy of my CV [here](/files/CV_MicheleCroci.pdf).
