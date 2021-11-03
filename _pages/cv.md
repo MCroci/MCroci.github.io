@@ -19,10 +19,6 @@ Education
 **Master's of Science in Plant production and crop protection** | December 2017
   * Thesis: "Early crop classification from Sentinel-2 data"
  
-**Bachelor's of Science in Agricultural Science and Technology** | April 2016
-
-
-
 Work experience
 ======
 * 15 January 2018 – 1 September 2018: Research Assistant
