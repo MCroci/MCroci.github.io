@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-## Università Cattolica del Sacro Cuore, Piacenza
+### Università Cattolica del Sacro Cuore, Piacenza
 **Doctor of Philosophy in Remote sensing for precision agriculture** | October 2018 - Present
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
@@ -28,20 +28,23 @@ Work experience
 ======
 * 15 January 2018 – 1 September 2018: Research Assistant
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
-  * Supervisor: Professor Stefano Amaducci
 
+Skills
+======
 
-# Skills
 * **Programming Languages**: R and Python
 * **Software Proficiencies**: MS Office and QGIS
 * **Operating Systems**: Windows, macOS, and Linux
 
-# Teaching Experience
+Teaching Experience
+======
+
 Read about my teaching experience [here](/teaching).
 
 
-Publications
+Publications 
 ======
+
 Read about my publications experience [here](/publications).
 
 
