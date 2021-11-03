@@ -13,7 +13,7 @@ Education
 ======
 ### Università Cattolica del Sacro Cuore, Piacenza
 **Doctor of Philosophy in Agro-Food System** | October 2018 - Present
-  * Remote Sensing and Spatial Analysis Research Center [(CRAST)](https://centridiricerca.unicatt.it/crast)
+  * Remote Sensing and Spatial Analysis Research Center (CRAST)
   * Supervisor: Professor Stefano Amaducci
 
 **Master's of Science in Plant production and crop protection** | December 2017
@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * 15 January 2018 – 1 September 2018: Research Assistant
-  * Remote Sensing and Spatial Analysis Research Center [(CRAST)](https://centridiricerca.unicatt.it/crast)
+  * Remote Sensing and Spatial Analysis Research Center (CRAST)
 
 Skills
 ======
@@ -40,7 +40,7 @@ Read about my teaching experience [here](/teaching).
 Publications 
 ======
 
-Read about my publications experience [here](/publications).
+Read about my publications [here](/publications).
 
 
   
