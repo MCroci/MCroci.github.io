@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "TeamRemoteSensing"
+title: "The Team"
 permalink: /TeamRemoteSensing/
 author_profile: true
 redirect_from:
@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Stefano Amaducci
-======
-
-Michele Colauzzi
-======
-* 
-  
-
-Giorgio Impollonia
-======
+## Stefano Amaducci
 *
 
-Michele Croci 👨‍💻
-======
+## Michele Colauzzi
+* 
 
-Andrea Marcone
-======
+
+## Giorgio Impollonia
+* 
+
+
+## Michele Croci 👨‍💻
+* 
+
+
+## Andrea Marcone
+* 
