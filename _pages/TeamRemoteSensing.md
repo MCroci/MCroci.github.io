@@ -15,14 +15,11 @@ redirect_from:
 ## Michele Colauzzi
 * 
 
-
 ## Giorgio Impollonia
 * 
 
-
 ## Michele Croci 👨‍💻
 * 
-
 
 ## Andrea Marcone
 * 
