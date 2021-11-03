@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
 ### Università Cattolica del Sacro Cuore, Piacenza
-**Doctor of Philosophy in Remote sensing for precision agriculture** | October 2018 - Present
+**Doctor of Philosophy in Agro-Food System ** | October 2018 - Present
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
 
