@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 ## Università Cattolica del Sacro Cuore, Piacenza
-**Doctor of Philosophy in Remote sensing for precision agriculture** | August 2019 - Present
- * Supervisor: Professor Stefano Amaducci
+**Doctor of Philosophy in Remote sensing for precision agriculture** | October 2018 - Present
+  * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
+  * Supervisor: Professor Stefano Amaducci
 
-**Master's of Science in Plant production and crop protection** | August 2014 - May 2019
+**Master's of Science in Plant production and crop protection** | December 2017
   * Thesis: "Early crop classification from Sentinel-2 data"
 
-**Bachelor's of Science in Agricultural Science and Technology** | August 2014 - May 2019
+**Bachelor's of Science in Agricultural Science and Technology** | April 2016
 
 
 Work experience
@@ -26,6 +27,7 @@ Work experience
 * 15 January 2018 – 1 September 2018: Research Assistant
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
+
 
 # Skills
 * **Programming Languages**: R and Python
@@ -35,13 +37,14 @@ Work experience
 # Teaching Experience
 Read about my teaching experience [here](/teaching).
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
