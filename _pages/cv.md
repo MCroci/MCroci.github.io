@@ -40,17 +40,9 @@ Read about my teaching experience [here](/teaching).
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Read about my publications experience [here](/publications).
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
   
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
