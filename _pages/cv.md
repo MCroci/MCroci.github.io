@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Agricultural Science and Technology. 
-* M.S. in Plant production and crop protection. Thesis: "Early crop classification from Sentinel-2 data"
-* Ph.D in Remote sensing for precision agriculture. Supervisor: Professor Stefano Amaducci
+## Università Cattolica del Sacro Cuore, Piacenza
+**Doctor of Philosophy in Remote sensing for precision agriculture** | August 2019 - Present
+ * Supervisor: Professor Stefano Amaducci
+
+**Master's of Science in Plant production and crop protection** | August 2014 - May 2019
+  * Thesis: "Early crop classification from Sentinel-2 data"
+
+**Bachelor's of Science in Agricultural Science and Technology** | August 2014 - May 2019
+
 
 Work experience
 ======
@@ -21,12 +27,13 @@ Work experience
   * Remote Sensing and Spatial Analysis Research Center (CRAST), Università Cattolica del Sacro Cuore
   * Supervisor: Professor Stefano Amaducci
 
-  
-Skills
-======
-* R Programming
-* QGIS
-* Python
+# Skills
+* **Programming Languages**: R and Python
+* **Software Proficiencies**: MS Office and QGIS
+* **Operating Systems**: Windows, macOS, and Linux
+
+# Teaching Experience
+Read about my teaching experience [here](/teaching).
 
 Publications
 ======
@@ -34,17 +41,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
