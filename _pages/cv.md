@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 ## Università Cattolica del Sacro Cuore, Piacenza
@@ -20,6 +21,7 @@ Education
   * Thesis: "Early crop classification from Sentinel-2 data"
 
 **Bachelor's of Science in Agricultural Science and Technology** | April 2016
+
 
 
 Work experience
