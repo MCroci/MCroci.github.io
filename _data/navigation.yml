@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
       
-  - title: "TeamRemoteSensing"
-    url: /TeamRemoteSensing/
+ #  - title: "TeamRemoteSensing"
+  #   url: /TeamRemoteSensing/
     
 #  - title: "Talks"
  #   url: /talks/    
