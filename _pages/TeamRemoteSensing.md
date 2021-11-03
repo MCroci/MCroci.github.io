@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Stefano Amaducci
+## Stefano Amaducci
 
 
-## Michele Colauzzi
+### Michele Colauzzi
  
 
-## Giorgio Impollonia
+### Giorgio Impollonia
  
 
-## Michele Croci 👨‍💻
+### Michele Croci 👨‍💻
  
 
-## Andrea Marcone
+### Andrea Marcone
  
