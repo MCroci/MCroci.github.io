@@ -46,7 +46,7 @@ Read about my publications [here](/publications).
 
 Collaborations
 ======
-*CITIMAP S.C. a R.L*, *Roquette Italia s.p.a*, *Canale emilia romagnolo*, *Consorzio di bonifica*
+*CITIMAP S.C. a R.L*, *Roquette Italia s.p.a*, *Canale emilia romagnolo* and *Consorzio di bonifica di Piacenza* 
   
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
