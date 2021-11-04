@@ -9,18 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Nutrivigna
-======
+### Nutrivigna
 
-POSITIVE
-======
+### Positive 
 
-SOIPOMI
-======
+### Soipomi
 
 
-AGRO.BIG.DATA.SCIENCE
-======
+### Agro.Big.Data.Science
 
 
 
