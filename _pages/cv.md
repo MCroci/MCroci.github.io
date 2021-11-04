@@ -21,14 +21,14 @@ Education
  
 Work experience
 ======
-* 15 January 2018 – 1 September 2018: Research Assistant
+**Research Assistant** | 15 January 2018 – 1 September 2018: 
   * Remote Sensing and Spatial Analysis Research Center (CRAST)
 
 Skills
 ======
 
 * **Programming Languages**: R and Python
-* **Software Proficiencies**: MS Office and QGIS
+* **Software Proficiencies**: MS Office, QGIS and OrfeoToolBox (OTB)
 * **Operating Systems**: Windows, macOS, and Linux
 
 Teaching Experience
