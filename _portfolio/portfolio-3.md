@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ground Truthing and Physiological Validation of Vis-NIR Spectral Indices for Early Diagnosis of Nitrogen Deficiency in cv. Barbera (Vitis vinifera L.) Grapevines"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/580x300.jpg'>"
 collection: portfolio
 ---
 
