@@ -1,6 +1,6 @@
 ---
 title: "Early crop classification using Sentinel-2"
-excerpt: " <br/><img src='/images/CropClassification.png'>"
+excerpt: " <br/><img src='/images/image-alignment-580x300.jpg'>"
 collection: portfolio
 ---
 
