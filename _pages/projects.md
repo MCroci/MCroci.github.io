@@ -19,13 +19,14 @@ The *[Nutrivigna](http://www.nutrivigna.it)* project, aimed to improve the nutri
 [Here](http://www.nutrivigna.it/media/documents/nutrivigna_www/eventi/convegno%20finale/Vincini_Calegari_Croci_Nutrivigna_31_05_2018.pdf?v=20180606) are some results shown during the final conference held on 31-05-2018
 
 ### Positive 
-The *[Positive](http://www.progettopositive.it)*
+The *[Positive](http://www.progettopositive.it)* project
 
 ### Soipomi
 The *[SOIPOMI](https://progetti.crpv.it/Home/ProjectDetail/60)* project 
+for further information [link](https://oipomodoronorditalia.it/2019/09/24/lo-studio-delle-immagini-satellitari-per-migliorare-la-produzione-progetto-di-oi-e-regione-emilia-romagna/)
 
 ### Agro.Big.Data.Science
-The *[agro.big.data.science](http://agrobigdatascience.it/)*
+The *[agro.big.data.science](http://agrobigdatascience.it/)* project
 
 ### GRACE BBI
 The *[GRACE](https://www.grace-bbi.eu/)* project
