@@ -50,6 +50,9 @@ Collaborations
   
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
+Projects
+======
+Mo.Re Farming 🛰 🚜; Nutrivigna 🛰 🍇; Positive 🛰 💧,Agro.Big.Data.Science 🛰 🥬🍐 🥝, Soipomi 🛰 🍅,  GRACE BBI 🌾🌾
  
 CV 👨‍💻
 ======
