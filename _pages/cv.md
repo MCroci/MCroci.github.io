@@ -27,19 +27,17 @@ Work experience
 Skills
 ======
 
-* **Programming Languages**: R and Python
+* **Programming Languages**: R  and Python 
 * **Software Proficiencies**: MS Office, QGIS and OrfeoToolBox (OTB)
 * **Operating Systems**: Windows, macOS, and Linux
 
 Teaching Experience
 ======
-
 Read about my teaching experience [here](/teaching).
 
 
 Publications 
 ======
-
 Read about my publications [here](/publications).
 
 
@@ -52,8 +50,7 @@ Collaborations
  
 Projects
 ======
-*Projects followed over the past four years:*
-Mo.Re Farming 🛰 🚜; Nutrivigna 🛰 🍇; Positive 🛰 💧,Agro.Big.Data.Science 🛰 🥬🍐 🥝, Soipomi 🛰 🍅,  GRACE BBI 🌾🌾
+*Projects followed over the past four years:* Mo.Re Farming 🛰 🚜; Nutrivigna 🛰 🍇; Positive 🛰 💧,Agro.Big.Data.Science 🛰 🥬🍐 🥝, Soipomi 🛰 🍅,  GRACE BBI 🌾🌾
  
 CV 👨‍💻
 ======
