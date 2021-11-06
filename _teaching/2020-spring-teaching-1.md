@@ -1,5 +1,5 @@
 ---
-title: "Tecnico per il monitoraggio e la gestione del territorio e dell’ambiente – esperto dei processi geomatici"
+title: "Tecnico per il monitoraggio e la gestione del territorio e dell’ambiente"
 collection: teaching
 type: "IFTS course"
 permalink: /teaching/2020-spring-teaching-1
