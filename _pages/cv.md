@@ -41,17 +41,18 @@ Publications
 Read about my publications [here](/publications).
 
 
-
-Collaborations
-======
-*CITIMAP S.C. a R.L*, *Roquette Italia s.p.a*, *OI del Pomodoro da Industria*, *OROGEL* srl, *Canale emilia romagnolo (CER)* and *Consorzio di bonifica di Piacenza* 
-  
 [//]: # (<iframe src="/files/CV_MicheleCroci.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>)
  
 Projects
 ======
 *Projects followed over the past four years:* Mo.Re Farming 🛰 🚜; Nutrivigna 🛰 🍇; Positive 🛰 💧,Agro.Big.Data.Science 🛰 🥬🍐 🥝, Soipomi 🛰 🍅,  GRACE BBI 🌾🌾
  
+ 
+Collaborations
+======
+*CITIMAP S.C. a R.L*, *Roquette Italia s.p.a*, *OI del Pomodoro da Industria*, *OROGEL* srl, *Canale emilia romagnolo (CER)* and *Consorzio di bonifica di Piacenza* 
+  
+  
 CV 👨‍💻
 ======
 You can download a PDF copy of my CV [here](/files/CV_MicheleCroci.pdf).
