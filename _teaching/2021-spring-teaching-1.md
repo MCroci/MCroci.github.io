@@ -10,6 +10,9 @@ location: "Piacenza, Italy"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-### Telerilevamento per lo studio della vegetazione
+## Subject of the lesson: 
+* Telerilevamento per lo studio della vegetazione
+* Introduzione all'utilizzo di R
+
 
 
