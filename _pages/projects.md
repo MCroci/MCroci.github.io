@@ -32,8 +32,9 @@ The *[Positive](http://www.progettopositive.it)* project had the following objec
 The standards and protocols developed during project POSITIVE will be available and fully documented to be freely usable by all companies (both farms and equipment providers) interested in precision irrigation and fertigation
 
 ### Soipomi 🛰 🍅
-The *[SOIPOMI](https://progetti.crpv.it/Home/ProjectDetail/60)* project 
-for further information [link](https://oipomodoronorditalia.it/2019/09/24/lo-studio-delle-immagini-satellitari-per-migliorare-la-produzione-progetto-di-oi-e-regione-emilia-romagna/)
+The *[SOIPOMI](https://progetti.crpv.it/Home/ProjectDetail/60)* project aims to make more and more central the role of the [*O.I. of processing tomatoes*](https://oipomodoronorditalia.it) in the process that generates information to support the supply chain, so as to be able to manage them and play a leading role of hinge between the agricultural and industrial world for a greater appreciation of the tomato on the markets. Through the development of a system of crop classification and production forecasting starting from Sentinel 2 ESA satellite images to derive technical information that can be used to better plan the various interventions both by the farm and the processing industry. Another objective is to have real-time data during the campaign to know the quantities delivered to industries and their quality levels, so as to better manage the planning of harvesting and processing. 
+
+For further information click [here](https://oipomodoronorditalia.it/2019/09/24/lo-studio-delle-immagini-satellitari-per-migliorare-la-produzione-progetto-di-oi-e-regione-emilia-romagna/) 
 
 ### Agro.Big.Data.Science 🛰 🥬🍐 🥝
 The *[agro.big.data.science](http://agrobigdatascience.it/)* project intends to apply the data driven logic to 3 production chains (kiwi, pear and spinach), complete with the necessary sensors for real-time data collection. Agro.Big.Data.Science, the result of the project, will be the landing point for the development of specialized solutions for the agri-food domain and has the following objectives:
