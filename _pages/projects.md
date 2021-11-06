@@ -37,7 +37,14 @@ The *[SOIPOMI](https://progetti.crpv.it/Home/ProjectDetail/60)* project
 for further information [link](https://oipomodoronorditalia.it/2019/09/24/lo-studio-delle-immagini-satellitari-per-migliorare-la-produzione-progetto-di-oi-e-regione-emilia-romagna/)
 
 ### Agro.Big.Data.Science 🛰 🥬🍐 🥝
-The *[agro.big.data.science](http://agrobigdatascience.it/)* project
+The *[agro.big.data.science](http://agrobigdatascience.it/)* project intends to apply the data driven logic to 3 production chains (kiwi, pear and spinach), complete with the necessary sensors for real-time data collection. Agro.Big.Data.Science, the result of the project, will be the landing point for the development of specialized solutions for the agri-food domain and has the following objectives:
+* The solution of specific problems of the three supply chains considered;
+* The validation of the data driven methodology on the agro-food supply chains;
+* The verification of the maturity and improvements of IoT systems already available to the supply chains;
+* The engineering of a Big Data platform specific for the agri-food sector, flexible and usable also by supply chains different from those considered in the project.
+
+Translated with www.DeepL.com/Translator (free version)
+
 
 ### GRACE BBI 🌾🌾
 The Bioeconomy project *[GRACE](https://www.grace-bbi.eu/)* is made up of a unique consortium of 22 partners from both academia and industry and also includes SME’s, farmers and an industrial cluster. These are joining forces to demonstrate three goals:
