@@ -18,7 +18,7 @@ The *[Nutrivigna](http://www.nutrivigna.it)* project, aimed to improve the nutri
 * advanced web services for the nutritional balance integrated with procedures for "mapping" the areas of the vineyard with different nutritional needs;
 * definition of vineyard management systems with low environmental impact.
 
-[Here](http://www.nutrivigna.it/media/documents/nutrivigna_www/eventi/convegno%20finale/Vincini_Calegari_Croci_Nutrivigna_31_05_2018.pdf?v=20180606) are some results shown during the final conference held on 31-05-2018
+[Here](http://www.nutrivigna.it/media/documents/nutrivigna_www/eventi/convegno%20finale/Vincini_Calegari_Croci_Nutrivigna_31_05_2018.pdf?v=20180606) are some results are shown during the final conference held on 31-05-2018
 
 ### Positive - Scalable Operational Protocols for precision agriculture 🛰 💧
 The *[Positive](http://www.progettopositive.it)* project had the following objectives:
