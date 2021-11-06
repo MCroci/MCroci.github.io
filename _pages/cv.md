@@ -31,8 +31,8 @@ Skills
 ======
 
 * **Programming Languages**:  
- * R :     🟢🟢🟢🟢⭕
- * Python & Javascripts: 🟢🟢⭕⭕⭕
+  * R :     🟢🟢🟢🟢⭕
+  * Python & Javascripts: 🟢🟢⭕⭕⭕
  
 * **Software Proficiencies**: MS Office, QGIS and OrfeoToolBox (OTB)
 * **Operating Systems**: Windows, macOS, and Linux
