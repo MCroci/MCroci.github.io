@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Michele Croci</h1>
 
-<h6 align="center" > I'm a third-year Ph.D student in Remote sensing for the Agri-Food 4.0 at Università Cattolica del Sacro Cuore🌱🛰.  </h6> 
+<h6 align="center" > I'm a third-year Ph.D student in Remote sensing for the Agri-Food 4.0 at Università Cattolica del Sacro Cuore.  </h6> 
 
 
 
