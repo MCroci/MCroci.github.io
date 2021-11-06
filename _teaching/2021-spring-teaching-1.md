@@ -1,5 +1,5 @@
 ---
-title: "Tecnico per il Monitoraggio e la Gestione Sostenibile delle Risorse Idriche"
+title: "Tecnico per il monitoraggio e la gestione sostenibile delle risorse idriche"
 collection: teaching
 type: "IFTS course"
 permalink: /teaching/2021-spring-teaching-1
