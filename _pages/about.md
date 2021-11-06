@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-I am a member of the UCSC Fields Crop group lab, advised by Prof. Stefano Amaducci. I do research on Remote sensing for precision agriculture and environmental monitoring.
+I am a member of the UCSC Fields Crop group, advised by Prof. Stefano Amaducci. I do research on Remote sensing for precision agriculture and environmental monitoring.
 My fields of study range from the local scale, with the study of the optical properties of the vegetation (useful for precision agriculture) to the regional scale for monitoring changes in the territory. At regional scale, my research interests focus on the study of the temporal dynamics of ecosystems, with the aim of producing crop maps, estimates of phenological metrics and production using machine learning and crop growth model. 
 
 
