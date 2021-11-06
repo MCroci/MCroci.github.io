@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here's a list of the projects I've followed over the past four years:
+
 ### Mo.Re Farming - a MOnitornig & REmote system for a MORE sustainable farming 🛰 🚜
 The *[Mo.Re Farming](http://www.morefarming.it/index.html)* project aimed to develop a platform for the collection and management of spatial and farm data, to provide the user (technician or farmer) with information to support decision-making and promote more sustainable farming techniques, such as site-specific management (precision farming). 
 
