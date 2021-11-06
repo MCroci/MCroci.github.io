@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##
+
 Education
 ======
 ### Università Cattolica del Sacro Cuore, Piacenza
