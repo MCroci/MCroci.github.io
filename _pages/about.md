@@ -15,6 +15,8 @@ My main subject of work is Remote sensing for precision agriculture and environm
 My fields of study range from the local scale, with the study of the optical properties of the vegetation (useful for precision agriculture) to the regional scale for monitoring changes in the territory. At regional scale, my research interests focus on the study of the temporal dynamics of ecosystems, with the aim of producing crop maps, estimates of phenological metrics and production using machine learning and crop growth model. 
 
 
+
+
 For more info
 ------
 
@@ -29,8 +31,4 @@ For more info
 
 
 
-
-
-Funding
-------
-Emilia-Romagna region with resources of European Social Fund (ESF).
+<h5> Funding: *Emilia-Romagna* region with resources of European Social Fund (ESF). </h5>
