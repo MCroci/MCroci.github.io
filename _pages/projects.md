@@ -43,9 +43,6 @@ The *[agro.big.data.science](http://agrobigdatascience.it/)* project intends to 
 * The verification of the maturity and improvements of IoT systems already available to the supply chains;
 * The engineering of a Big Data platform specific for the agri-food sector, flexible and usable also by supply chains different from those considered in the project.
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 ### GRACE BBI 🌾🌾
 The Bioeconomy project *[GRACE](https://www.grace-bbi.eu/)* is made up of a unique consortium of 22 partners from both academia and industry and also includes SME’s, farmers and an industrial cluster. These are joining forces to demonstrate three goals:
 * the upscaling of miscanthus crop production
