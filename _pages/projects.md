@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+### Mo.Re Farming - a MOnitornig & REmote system for a MORE sustainable farming
+The *[Mo.Re Farming](http://www.morefarming.it/index.html)* project aimed to develop a platform for the collection and management of spatial and farm data, to provide the user (technician or farmer) with information to support decision-making and promote more sustainable farming techniques, such as site-specific management (precision farming). 
+
+
+
 ### Nutrivigna 
 The *[Nutrivigna](http://www.nutrivigna.it)* project, aimed to improve the nutrient efficiency and reduce the environmental impact of wine production, through the development and dissemination of different tools:
 * innovative techniques of spectral observation from proximity (optical sensors mounted on operating machines) and from remote (drones and earth observation satellites) for the determination of mineral requirements;
