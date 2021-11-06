@@ -40,6 +40,8 @@ for further information [link](https://oipomodoronorditalia.it/2019/09/24/lo-stu
 The *[agro.big.data.science](http://agrobigdatascience.it/)* project
 
 ### GRACE BBI 🌾🌾
-The *[GRACE](https://www.grace-bbi.eu/)* project
-
+The Bioeconomy project *[GRACE](https://www.grace-bbi.eu/)* is made up of a unique consortium of 22 partners from both academia and industry and also includes SME’s, farmers and an industrial cluster. These are joining forces to demonstrate three goals:
+* the upscaling of miscanthus crop production
+* the production of both miscanthus and hemp on lands of low productivity, abandoned land or land with contaminated soil
+* the establishment of 10 biobased value chains at a scale of relevance to industry.
 
