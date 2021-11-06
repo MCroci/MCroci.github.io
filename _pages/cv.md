@@ -27,7 +27,8 @@ Work experience
 Skills
 ======
 
-* **Programming Languages**: R  and Python 
+* **Programming Languages**: R  and Python <img align="right" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rstudio.svg" /> <img align="right" alt="Croci93 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+
 * **Software Proficiencies**: MS Office, QGIS and OrfeoToolBox (OTB)
 * **Operating Systems**: Windows, macOS, and Linux
 
