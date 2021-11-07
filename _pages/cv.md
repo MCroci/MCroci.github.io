@@ -52,7 +52,7 @@ Read about my publications [here](/publications).
 
 Projects
 ======
-*Projects followed over the past four years:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧,Agro.Big.Data.Science 🥬🍐 🥝, Soipomi 🍅,  GRACE BBI 🌾
+*Projects followed over the past four years:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧; Agro.Big.Data.Science 🥬🍐 🥝; Soipomi 🍅 &  GRACE BBI 🌾
  
 
 Collaborations
