@@ -51,4 +51,4 @@ The Bioeconomy project *[GRACE](https://www.grace-bbi.eu/)* is made up of a uniq
 * the production of both miscanthus and hemp on lands of low productivity, abandoned land or land with contaminated soil
 * the establishment of 10 biobased value chains at a scale of relevance to industry.
 
-In this project, I assisted my colleague *Giorgio Impollonia* (the one and only) in the development of an algorithm for the estimation of Miscanthus moisture and an algorithm for the estimation of biophysical parameters using multispectral images.
+In this project, I assisted my colleague *Giorgio Impollonia* (the one and only) in the development of an algorithm for the estimation of Miscanthus moisture and an algorithm for the estimation of biophysical parameters using UAV multispectral images 🚁 .
