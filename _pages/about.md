@@ -21,4 +21,4 @@ My fields of study range from the local scale, with the study of the optical pro
 
 
 ------
-<h5> Funding: Emilia-Romagna region with resources of European Social Fund (ESF). </h5>
+<h5> My research was funded by a grant from Emilia-Romagna  Region DGR n.769 del 21/05/2018 co-financed by the European Social Fund (ESF) POR-FESR 2014-2020. </h5>
