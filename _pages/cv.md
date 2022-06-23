@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-### Università Cattolica del Sacro Cuore, Piacenza
-**Doctor of Philosophy in Agro-Food System** | October 2018 - Present
+#### Università Cattolica del Sacro Cuore, Piacenza
+**Doctor of Philosophy in Agro-Food System** | October 2018 - May 2022
   * Remote Sensing and Spatial Analysis Research Center (CRAST)
   * Supervisor: Professor Stefano Amaducci
 
@@ -23,6 +23,10 @@ Education
 
 Work experience
 ======
+#### Università Cattolica del Sacro Cuore, Piacenza
+**Postdoctoral research in  Remote Sensing** | May 2022 - Present
+  * Remote Sensing and Spatial Analysis Research Center (CRAST)
+
 **Research Assistant** | 15 January 2018 – 1 September 2018: 
   * Remote Sensing and Spatial Analysis Research Center (CRAST)
 
@@ -52,7 +56,7 @@ Read about my publications [here](/publications).
 
 Projects
 ======
-*Projects followed over the past four years:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧; Agro.Big.Data.Science 🥬🍐 🥝; Soipomi 🍅 &  GRACE BBI 🌾
+*Projects:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧; Agro.Big.Data.Science 🥬🍐 🥝; Soipomi 🍅;  GRACE BBI 🌾 ClieNFarms 🛰️🌍
  
 
 Collaborations
