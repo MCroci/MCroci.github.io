@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Michele Croci"
   avatar           : "logoRemoteSensingTeam.png"
-  bio              : "Remote sensing for the AgriFood4.0 🌱🛰"
+  bio              : "Agronomist | EO Data scientist 🌱🛰"
   location         : "Piacenza, Italy"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -315,6 +315,6 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
