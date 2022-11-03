@@ -1,5 +1,5 @@
 ---
-title: "5. UAV Remote Sensing for High-Throughput Phenotyping and for Yield Prediction of Miscanthus by Machine Learning Techniques"
+title: "5) UAV Remote Sensing for High-Throughput Phenotyping and for Yield Prediction of Miscanthus by Machine Learning Techniques"
 collection: publications
 permalink: /publication/2022-06-Miscanthus-2
 excerpt: ''
