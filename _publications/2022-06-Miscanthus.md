@@ -1,5 +1,5 @@
 ---
-title: "Moisture content estimation and senescence phenotyping of novel Miscanthus hybrids combining UAV-based remote sensing and machine learning"
+title: "4. Moisture content estimation and senescence phenotyping of novel Miscanthus hybrids combining UAV-based remote sensing and machine learning"
 collection: publications
 permalink: /publication/2022-06-Miscanthus
 excerpt: ''
