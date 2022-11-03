@@ -1,5 +1,5 @@
 ---
-title: "Impact of Training Set Size and Lead Time on Early Tomato Crop Mapping Accuracy"
+title: "6. Impact of Training Set Size and Lead Time on Early Tomato Crop Mapping Accuracy"
 collection: publications
 permalink: /publication/2022-08-TomatoMapping
 excerpt: ''
