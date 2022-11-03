@@ -52,3 +52,12 @@ The Bioeconomy project *[GRACE](https://www.grace-bbi.eu/)* is made up of a uniq
 * the establishment of 10 biobased value chains at a scale of relevance to industry.
 
 In this project, I assisted my colleague *Giorgio Impollonia* (the one and only) in the development of an algorithm for the estimation of Miscanthus moisture and an algorithm for the estimation of biophysical parameters using UAV multispectral images 🚁 .
+
+### ClieNFarms 🌍🐮🍅🚜
+*[ClieNFarms](https://clienfarms.eu/project/)* is an Innovation Action project funded by the European Commission to support the European Green Deal. It aims to co-develop and scale up systemic, locally relevant solutions to foster climate-neutral and climate-resilient farms across Europe.
+
+Supporting the Farm to Fork (F2F) strategy, contributing to the achievement of its objectives, the ClieNFarms project aims to demonstrate, evaluate and improve technical, organisational and financial solutions at the farm level that will contribute to achieving climate-neutrality of European agriculture by 2050. This will be done by a multi-actor approach, interactively integrating and improving existing solutions to achieve economically viable business models in farming systems by involving farmers, extension services, agri-food business, policymakers, finance and citizens. These solutions will be disseminated, and young farmers will be targeted through capacity building.
+
+### FARMS4CLIMATE 🌍🐮🚜
+*[Farms4Climate](https://www.linkedin.com/company/farms4climateproject/)* is a PRIMA funded project (EU's Horizon 2020 programme) that seeks to unlock opportunities linked to carbon farming for Mediterranean smallholders.
+The Farms4Climate project is coordinated by AIR Institute (Valladolid, Spain), started on April the 1st 2022, and will last for 36 months. It is based on the creation of 6 living labs that will promote the diffusion of 6 regenerative agricultural practices relevant to the 6 selected territories (southern Spain, southern Italy, northern Italy, coastal Tunisia, coastal Egypt, desert Egypt).
