@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Biostimulants Via High-Throughput Field Phenotyping: Biophysical Traits Retrieval Through PROSAIL Inversion"
+title: "3. Evaluating Biostimulants Via High-Throughput Field Phenotyping: Biophysical Traits Retrieval Through PROSAIL Inversion"
 collection: publications
 permalink: /publication/2022-06-Biostimulants
 excerpt: ''
