@@ -23,6 +23,10 @@ Education
 
 Work experience
 ======
+#### Leibniz Centre for Agricultural Landscape Research (ZALF), Müncheberg, Brandenburg
+**Guest researcher in  Remote Sensing** | September 2022 - Present
+  * Research Platform "Data Analysis & Simulation"
+ 
 #### Università Cattolica del Sacro Cuore, Piacenza
 **Postdoctoral research in  Remote Sensing** | May 2022 - Present
   * Remote Sensing and Spatial Analysis Research Center (CRAST)
