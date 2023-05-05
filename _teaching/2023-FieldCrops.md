@@ -9,7 +9,7 @@ location: "Piacenza, Italy"
 ---
 
 
-## Subject of the lesson: 
+## Argomenti trattati: 
 * Fertilizzazione azotata: Esercizi su bilancio analitico
 * Irrigazione: Esercizi su bilancio idrico
 
