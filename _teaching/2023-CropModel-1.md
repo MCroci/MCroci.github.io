@@ -9,6 +9,11 @@ location: "Piacenza, Italy"
 ---
 
 
-## Subject of the lesson: 
+## Argomenti trattati: 
 * Simulazioni tramite software modello DAISY
+  * Installazione e configurazione Daisy
+  * Definizione orizzonti del suolo
+  * Definizione sistemi di irrigazione
+  * Confronto diverse gestione dei residui
+  * Confronto diverse combinazioni fertilizzazione e gestione dei residui
 
