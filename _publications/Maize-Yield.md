@@ -1,7 +1,7 @@
 ---
 title: "11) Dynamic Maize Yield Predictions Using Machine Learning on Multi-Source Data"
 collection: publications
-permalink: /publication/2022-11 Hemp_LAI
+permalink: /publication/2022-11 Maize-Yield
 excerpt: ''
 date: 2022-12-24
 venue: 'Remote sensing'
