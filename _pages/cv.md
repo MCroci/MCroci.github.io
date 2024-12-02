@@ -60,7 +60,7 @@ Read about my publications [here](/publications).
 
 Projects
 ======
-*Projects:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧; Agro.Big.Data.Science 🥬🍐 🥝; Soipomi 🍅;  GRACE BBI 🌾 ClieNFarms 🛰️🌍
+*Projects:* Mo.Re Farming 🚜; Nutrivigna 🍇; Positive 💧; Agro.Big.Data.Science 🥬🍐 🥝; Soipomi 🍅;  GRACE BBI 🌾 ClieNFarms 🛰️🌍; MARVIC 🛰️; Agritech; Agrivolt-ER, EOAgriTwin
  
 
 Collaborations
