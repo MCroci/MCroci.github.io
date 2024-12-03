@@ -8,15 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-<h1 align="center"> Hi! I'm Michele Croci</h1>
-<h6 align="center"> I am a researcher at the Department of Sustainable Crop Production at Università Cattolica del Sacro Cuore. I graduated in Agricultural Sciences and Technologies from the same university, where I also earned my PhD at the AGRISYSTEM PhD School, focusing on the agri-food system. My research mainly revolves around the analysis of remote sensing data for optimal crop and land management. </h6> 
+<h1 align="center"> Hi! I'm Michele Croci 🌍</h1>
+<h6 align="center"> I am a researcher at the Department of Sustainable Crop Production at Università Cattolica del Sacro Cuore. 🎓 I graduated in Agricultural Sciences and Technologies from the same university, where I also earned my PhD at the AGRISYSTEM PhD School, focusing on the agri-food system. 🌱 My research mainly revolves around the analysis of remote sensing data 📡 for optimal crop and land management. 🚜 </h6> 
 
 ---
 
-I specialize in using innovative technologies such as machine learning and multispectral imagery to develop advanced solutions for precision agriculture and sustainable resource management. My work spans high-throughput phenotyping, dynamic yield prediction, and agrivoltaic system modeling. Currently, I am a postdoctoral researcher at the Remote Sensing and Spatial Analysis Research Center (CRAST) and a guest scientist at the Leibniz Centre for Agricultural Landscape Research (ZALF) in Germany.
+I specialize in leveraging cutting-edge technologies such as machine learning 🤖 and multispectral imagery 🌈 to develop advanced solutions for precision agriculture and sustainable resource management. My work addresses critical challenges in modern agriculture, including high-throughput phenotyping 📷 for crop improvement, dynamic yield prediction 📊 to enhance food security, and agrivoltaic system modeling ☀️🌾 to maximize land use efficiency. Currently, I am a postdoctoral researcher at the Remote Sensing and Spatial Analysis Research Center (CRAST) 🛰️ and a guest scientist at the Leibniz Centre for Agricultural Landscape Research (ZALF) in Germany. 🇩🇪
 
-Over the years, I have been actively involved in several impactful research projects, including **Mo.Re Farming**, aimed at promoting site-specific management techniques, and **Nutrivigna**, which focuses on improving vineyard nutrient efficiency while reducing environmental impact. Other key projects include **ClieNFarms**, supporting climate-neutral farming solutions, and **GRACE BBI**, dedicated to enhancing bioeconomy crops like miscanthus and hemp on marginal lands.
+Over the years, I have contributed to several high-impact research initiatives:  
+- **Mo.Re Farming** 🚜: Focused on promoting site-specific management techniques to support sustainable farming practices.  
+- **Nutrivigna** 🍇: Aimed at improving nutrient efficiency and reducing the environmental footprint of vineyards through remote and proximal sensing technologies.  
+- **ClieNFarms** 🌍🚜: Developed solutions for climate-neutral farming to support the European Green Deal.  
+- **GRACE BBI** 🌾: Advanced the use of bioeconomy crops like miscanthus and hemp on marginal or contaminated lands.  
 
-I am passionate about combining innovation and sustainability to tackle global challenges in agriculture. My scientific publications reflect my commitment to advancing the field, covering topics like early crop classification, biostimulant evaluation, and the integration of remote sensing for improved agricultural practices.
+Other key projects include **Positive** 💧, targeting precision irrigation through satellite and ground sensor data, and **Agro.Big.Data.Science** 🥬🍐🥝, where I worked on creating data-driven solutions for supply chain optimization in kiwi, pear, and spinach production.  
 
-In addition to my research, I am proficient in programming languages such as R and Python, as well as advanced GIS tools like QGIS and OrfeoToolBox. I firmly believe that remote sensing and data-driven solutions are key to transforming agriculture into a more sustainable and resilient sector
+My scientific contributions, reflected in numerous peer-reviewed publications, explore topics like early crop classification 🛰️, biostimulant evaluation for stress resilience 🌱, and the integration of machine learning for yield prediction 📡. I actively combine theoretical research with practical applications to deliver tangible benefits to farmers, agronomists, and stakeholders in the agricultural sector.
+
+Beyond my research, I am proficient in programming languages such as **R** 🟢🟢🟢🟢⭕ and **Python** 🟢🟢⭕⭕⭕, as well as advanced GIS tools like **QGIS** and **OrfeoToolBox**. My work also relies on various operating systems, including Windows, macOS, and Linux. I am passionate about mentoring young researchers and sharing knowledge through teaching and collaborative projects.
+
+I firmly believe that technological innovation and remote sensing will play a transformative role in the future of agriculture. By fostering sustainability, efficiency, and resilience, we can address pressing global challenges such as food security, resource management, and climate change. 🌍🌱🚜
