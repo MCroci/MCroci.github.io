@@ -10,7 +10,7 @@ redirect_from:
 <h1 align="center"> Hi! I'm Michele Croci 🌍</h1>
 <h6 align="center"> Sono ricercatore presso il Dipartimento di Scienze delle Produzioni Sostenibili dell'Università Cattolica del Sacro Cuore. 🎓 Ho conseguito la laurea in Scienze e Tecnologie Agrarie e il dottorato di ricerca presso la Scuola di Dottorato AGRISYSTEM. 🌱 La mia ricerca si concentra sull'analisi di dati da telerilevamento 📡 per l'ottimizzazione della gestione agronomica. 🚜 </h6> 
 
-Mi occupo di tecnologie come machine learning 🤖 e immagini multispettrali 🌈 per sviluppare soluzioni di agricoltura di precisione. Le mie principali aree di ricerca includono il fenotipaggio 📷, la previsione delle rese 📊 e la modellazione di sistemi agrivoltaici ☀️🌾. Attualmente sono ricercatore post-dottorale presso il Centro di Ricerca sul Telerilevamento e Analisi Spaziale (CRAST) 🛰️ e ricercatore ospite presso il Leibniz Centre for Agricultural Landscape Research (ZALF) in Germania 🇩🇪.
+Mi occupo di tecnologie come machine learning 🤖 e immagini multispettrali 🌈 per sviluppare soluzioni di agricoltura di precisione. Le mie principali aree di ricerca includono il fenotipizzazione 📷, la previsione delle rese 📊 e la modellazione di sistemi agrivoltaici ☀️🌾. Attualmente sono ricercatore post-dottorale presso il Centro di Ricerca sul Telerilevamento e Analisi Spaziale (CRAST) 🛰️ e ricercatore ospite presso il Leibniz Centre for Agricultural Landscape Research (ZALF) in Germania 🇩🇪.
 
 Ho contribuito a diversi progetti di ricerca:
 - **Mo.Re Farming** 🚜: gestione sito-specifica per l'agricoltura sostenibile
