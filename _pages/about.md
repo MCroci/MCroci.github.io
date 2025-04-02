@@ -24,5 +24,5 @@ Ho contribuito a diversi progetti di ricerca:
 
 Le mie pubblicazioni scientifiche riguardano la classificazione precoce delle colture 🛰️, la valutazione dei biostimolanti 🌱 e l'applicazione del machine learning per la previsione delle rese 📡.
 
-Ho competenze in programmazione (**R** 🟢🟢🟢🟢⭕ e **Python** 🟢🟢⭕⭕⭕) e GIS (**QGIS**).
+Ho competenze in programmazione (**R** 🟢🟢🟢🟢🟢 e **Python** 🟢🟢🟢⭕⭕) e GIS (**QGIS**).
 Il mio obiettivo è contribuire all'innovazione tecnologica in agricoltura per promuovere sostenibilità, efficienza e resilienza del settore. 🌍🌱🚜
