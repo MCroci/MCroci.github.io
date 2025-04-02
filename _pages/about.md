@@ -19,6 +19,7 @@ Ho contribuito a diversi progetti di ricerca:
 - **GRACE BBI** 🌾: colture bioeconomiche su terreni marginali
 - **Positive** 💧: irrigazione di precisione 
 - **Agro.Big.Data.Science** 🥬🍐🥝: ottimizzazione delle filiere ortofrutticole
+- **SOIPOMI**
 - **Agrivolt-ER**☀️
 - **Value4farms**
 - **MARVIC**
