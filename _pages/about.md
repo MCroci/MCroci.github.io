@@ -63,7 +63,7 @@ You can download a PDF version of my CV [here](#).
 
 **Technical Skills:**  
 - **R:** 🟢🟢🟢🟢⭕  
-- **Python & JavaScript:** 🟢🟢⭕⭕⭕  
+- **Python:** 🟢🟢⭕⭕⭕  
 - **GIS & Software:** QGIS, OrfeoToolBox, MS Office  
 - **OS:** Windows, macOS, Linux
 
