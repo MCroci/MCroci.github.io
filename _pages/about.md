@@ -23,6 +23,27 @@ You can download a PDF version of my CV [here](#).
 
 ---
 
+### 💼 Work Experience
+
+- **Assistant Professor in Remote Sensing and Crop modelling**  
+  *Università Cattolica del Sacro Cuore, Piacenza*  
+  Research Platform “Data Analysis & Simulation”  
+  *March 2023 – Present*
+
+  - **Guest Researcher in Remote Sensing**  
+  *Leibniz Centre for Agricultural Landscape Research (ZALF), Germany*  
+  Research Platform “Data Analysis & Simulation”  
+  *Sep 2022 – December 2022*
+
+- **Postdoctoral Researcher in Remote Sensing**  
+  *Università Cattolica del Sacro Cuore, Piacenza – CRAST*  
+  *May 2022 – Febraury 2023*
+
+- **Research Assistant**  
+  *Remote Sensing and Spatial Analysis Research Center (CRAST)*  
+  *Jan 2018 – Sep 2018*
+
+---
 ### 🎓 Education
 
 - **Ph.D. in Agro-Food System**  
@@ -33,23 +54,6 @@ You can download a PDF version of my CV [here](#).
 - **M.Sc. in Plant Production and Crop Protection**  
   *Università Cattolica del Sacro Cuore, Piacenza*  
   <span style="font-size:0.9em;">Thesis: “Early crop classification from Sentinel-2 data”</span>
-
----
-
-### 💼 Work Experience
-
-- **Guest Researcher in Remote Sensing**  
-  *Leibniz Centre for Agricultural Landscape Research (ZALF), Germany*  
-  Research Platform “Data Analysis & Simulation”  
-  *Sep 2022 – Present*
-
-- **Postdoctoral Researcher in Remote Sensing**  
-  *Università Cattolica del Sacro Cuore, Piacenza – CRAST*  
-  *May 2022 – Present*
-
-- **Research Assistant**  
-  *Remote Sensing and Spatial Analysis Research Center (CRAST)*  
-  *Jan 2018 – Sep 2018*
 
 ---
 
