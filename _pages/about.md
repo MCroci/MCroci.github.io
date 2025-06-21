@@ -97,10 +97,11 @@ You can download a PDF version of my CV [here](#).
 - **Value4Farm** - Renewable energy value chains (2022-ongoing)  
 - **MARVIC** - Carbon monitoring and MRV systems (2023-ongoing)
 - **GRACE BBI** - Advanced industrial crops for biorefineries (2017-2022)
+- **EOAgriTwin (ESA)** - Digital Twin for Resilient Agriculture (2024-ongoing)
+
 
 🇮🇹 **National Projects (PNRR, ESA):**
 - **Agritech (PNRR)** - National Research Centre for Agricultural Technologies (2023-ongoing)
-- **EOAgriTwin (ESA)** - Digital Twin for Resilient Agriculture (2024-ongoing)
 
 🏢 **Technology Transfer:**
 Collaborating with leading companies: **OROGEL**, **Roquette Italia**, **CER Consortium**, **OI Pomodoro da Industria**
